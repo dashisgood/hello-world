@@ -1,1 +1,1 @@
-print('you got pwned')
+for i in range(1000): print('you got pwned')
